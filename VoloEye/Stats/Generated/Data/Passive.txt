@@ -1,0 +1,7 @@
+new entry "CAMP_Volo_ErsatzEye_CUSTOM"
+type "PassiveData"
+data "DisplayName" "h232cc24ega0f9g4f4dgb5d3g46ab59579d4b;2"
+data "Description" "h9d8550edg6d54g4113gbbdcge6d99b8b2a2f;4"
+data "Icon" "Item_DEN_VoloOperation_ErsatzEye"
+data "StatsFunctorContext" "OnEquip;OnCreate"
+data "StatsFunctors" "ApplyStatus(MAG_SEE_INVISIBILITY_HIDDEN_IGNORE_RESTING, 100, -1)"

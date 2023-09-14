@@ -1,0 +1,7 @@
+new entry "CAMP_VOLO_ERSATZEYE_CUSTOM"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hc27fded5g2f9bg4747g96a9gc5d4aa201050;3"
+data "StackId" "CAMP_VOLO_ERSATZEYE_CUSTOM"
+data "Passives" "CAMP_Volo_ErsatzEye"
+data "StatusPropertyFlags" "BringIntoCombat;ApplyToDead;IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"

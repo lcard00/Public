@@ -1,0 +1,5 @@
+new entry "CAMP_VOLO_ERSATZEYE_CUSTOM"
+type "Object"
+data "StatusType" "BOOST"
+using "DEN_VoloOperation_ErsatzEye"
+data "StatusPropertyFlags" "BringIntoCombat;ApplyToDead;IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
