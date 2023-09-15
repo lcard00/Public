@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="9" build="325" />
 	<region id="Templates">
 		<node id="Templates">
 			<children>			
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="a7d56dcc-1db0-4d9c-945f-814068504792" />
-					<attribute id="Name" type="LSString" value="DEN_VoloOperation_ErsatzEye_See_Invisibility_Charisma" />
+					<attribute id="MapKey" type="FixedString" value="036760ae-f2e5-41f3-a3e1-2587b076dd42" />
+					<attribute id="Name" type="LSString" value="DEN_VoloOperation_ErsatzEye_Inv_Char" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="ParentTemplateId" type="FixedString" value="93380b9c-cf4f-413d-99a7-7e2897cdb94e" /> 
 					<attribute id="ReadinessFlags" type="uint32" value="128" />	
 					<attribute id="VisualTemplate" type="FixedString" value="c8498b25-a78d-a4ab-7fa5-b2c7a689170a" /> 
-					<attribute id="PhysicsTemplate" type="FixedString" value="fd587cf8-db5a-8812-6eb3-fc39617e5230" />					
-					<attribute id="DisplayName" type="TranslatedString" handle="h18c84d1agec6eg4cc1g8bcfg564bf0569e05" version="1" />	
+					<attribute id="PhysicsTemplate" type="FixedString" value="fd587cf8-db5a-8812-6eb3-fc39617e5230" />			
+					<attribute id="DisplayName" type="TranslatedString" handle="h18c84d1agec6eg4cc1g8bcfg564bf0569e05" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_DEN_VoloOperation_ErsatzEye" />
-					<attribute id="Stats" type="FixedString" value="DEN_VoloOperation_ErsatzEye_See_Invisibility" />
+					<attribute id="Stats" type="FixedString" value="DEN_VoloOperation_ErsatzEye_Inv_Char" />
 					<attribute id="StoryItem" type="bool" value="False" />
 					<attribute id="Description" type="TranslatedString" handle="h2be9cf21g3eebg49d8gaac6g50318e659ea7" version="1" /> 
 					<attribute id="AnubisConfigName" type="FixedString" value="" />

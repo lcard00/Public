@@ -3,21 +3,21 @@
 	<version major="4" minor="0" revision="9" build="325" />
 	<region id="Templates">
 		<node id="Templates">
-			<children>			
+			<children>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="0a800333-6baf-4b6f-9021-10ec9af2f039" />
 					<attribute id="Name" type="LSString" value="DEN_VoloOperation_ErsatzEye_Dexterity" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="ParentTemplateId" type="FixedString" value="93380b9c-cf4f-413d-99a7-7e2897cdb94e" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="93380b9c-cf4f-413d-99a7-7e2897cdb94e" />
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
-					<attribute id="VisualTemplate" type="FixedString" value="c8498b25-a78d-a4ab-7fa5-b2c7a689170a" /> 
+					<attribute id="VisualTemplate" type="FixedString" value="c8498b25-a78d-a4ab-7fa5-b2c7a689170a" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="fd587cf8-db5a-8812-6eb3-fc39617e5230" />
-					<attribute id="DisplayName" type="TranslatedString" handle="heae5908bge494g41abg8be0g6808d26ad81b" version="1" />	
+					<attribute id="DisplayName" type="TranslatedString" handle="heae5908bge494g41abg8be0g6808d26ad81b" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_DEN_VoloOperation_ErsatzEye" />
 					<attribute id="Stats" type="FixedString" value="DEN_VoloOperation_ErsatzEye_Dexterity" />
 					<attribute id="StoryItem" type="bool" value="False" />
-					<attribute id="Description" type="TranslatedString" handle="h83f65922g49ecg40adgb0b2gac61620ecf8d" version="1" /> 
+					<attribute id="Description" type="TranslatedString" handle="h83f65922g49ecg40adgb0b2gac61620ecf8d" version="1" />
 					<attribute id="AnubisConfigName" type="FixedString" value="" />
 					<children>
 						<node id="Bounds">
